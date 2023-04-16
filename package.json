@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.19"
+  },
+  "name": "ChatGPT",
+  "version": "1.0.0",
+  "description": "Package to query chat gpt and record prompts",
+  "main": "index.js",
+  "repository": "https://github.com/sajeeth1009/chatgpt-response-recorder.git",
+  "license": "MIT",
+  "private": true
+}
